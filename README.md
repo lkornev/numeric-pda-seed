@@ -2,6 +2,7 @@
 
 ### Build
 npm install
+
 anchor build
 
 ### Run test
